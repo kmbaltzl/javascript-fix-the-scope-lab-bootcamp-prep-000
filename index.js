@@ -33,4 +33,4 @@ var funkyFunction = function() {
 var theFunk = funkyFunction(); {
   console.log('${funkyFunction}')
 }
-theFunk();
+theFunk
