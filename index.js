@@ -3,6 +3,7 @@ var animal = 'dog'
 function myAnimal() {
   return animal
 }
+console.log()
 
 function yourAnimal() {
   // How can we make sure that this function
